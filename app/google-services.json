@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384654934493",
+    "project_id": "lap08firebase",
+    "storage_bucket": "lap08firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384654934493:android:7a030c695be07cfabc3634",
+        "android_client_info": {
+          "package_name": "com.example.lap8_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384654934493-bh7m8svtvfgu5amvvcpiq8fr2la5gnol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoLYzNNSTW4m0lSRefGNtSQFcqzAoO8wQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384654934493-bh7m8svtvfgu5amvvcpiq8fr2la5gnol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
